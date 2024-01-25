@@ -1,0 +1,5 @@
+export const fetching="fetch_Leases"
+export const Add="Add_Lease"
+export const Find="Find_Lease"
+export const Update="Update_Lease"
+export const Delete="Delete_Lease"

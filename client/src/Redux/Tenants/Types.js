@@ -1,0 +1,5 @@
+export const fetching="fetch_Tenants"
+export const Add="Add_Tenant"
+export const Find="Find_Tenant"
+export const Update="Update_Tenant"
+export const Delete="Delete_Tenant"

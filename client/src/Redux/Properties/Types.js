@@ -1,0 +1,6 @@
+export const fetching="fetch_Properties"
+export const fetchOne="fetch_Property"
+export const Add="Add_Property"
+export const Find="Find_Property"
+export const Update="Update_Property"
+export const NotLeased="Not_Leased_Property"
